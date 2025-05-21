@@ -75,7 +75,7 @@ int main()
         printf("You Win!!");
     }
     else if(result==-1){
-        printf("You Win!!");
+        printf("You Lose!!");
     }
     else{
         printf("Enter a valid Input!!");
